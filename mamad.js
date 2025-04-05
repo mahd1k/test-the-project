@@ -7,3 +7,4 @@ var first = document.getElementById('aval')
 var second = document.getElementById('dovom')
 var result = document.getElementById('result')
 var computebtn = document.getElementById('compute')
+
