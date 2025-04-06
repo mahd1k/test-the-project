@@ -27,7 +27,7 @@ input , button{
 
 }
 button{
-    background-color: rgb(30, 200,250);
+   background-color: brown;
 }
 #total{
     font-size:40px;
